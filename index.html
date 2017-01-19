@@ -9,7 +9,9 @@
 
 </body>
 <script>
-    var name = prompt('请输入你的姓名:');
-    document.body.appendChild('<p>welcome,'+name+'项目建设中，谢谢关注！</p>')
+    var name = prompt('请输入你的姓名:'),
+        pNode = document.createElement('p');
+        pNode.innerHTML = 'welcome,'+name+',项目建设中，谢谢关注！';
+    document.body.appendChild(pNode);
 </script>
 </html>
