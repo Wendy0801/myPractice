@@ -1,0 +1,609 @@
+//{
+//  "compilerOptions": {
+//    "module": "commonjs",
+//    "target": "es5",
+//    "sourceMap": true
+//  },
+//  "exclude": [
+//    "node_modules"
+//  ]
+//}
+{
+
+  "code": 1,
+  "msg": "成功！",
+  "entity": {
+    "pageNum": 1,
+    "pageSize": 10,
+    "startRow": 0,
+    "endRow": 0,
+    "total": 16,
+    "pages": 0,
+    "count": false,
+    "resultList": [
+      {
+        "userId": 33,
+        "custId": "32000005934263",
+        "name": "天地一号",
+        "sex": "1",
+        "area": "北京,东城区",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484102437416_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "https://m.xiaokaxiu.com/m/IOyM6afhqEws3aAtG4iBZg__.html",
+        "videoPath2": "",
+        "videoPicPath2": "http://qncdn.miaopai.com/stream/IOyM6afhqEws3aAtG4iBZg___m.jpg",
+        "video3": "https://m.xiaokaxiu.com/m/IOyM6afhqEws3aAtG4iBZg__.html",
+        "videoPath3": "",
+        "videoPicPath3": "http://qncdn.miaopai.com/stream/IOyM6afhqEws3aAtG4iBZg___m.jpg",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484102400004_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 55,
+        "position": 1,
+        "age": 27,
+        "commentCount": 8,
+        "commentList": [
+          {
+            "id": 479,
+            "commentUser": {
+              "userId": "oBkjRws2jnzhz_PDSvVHaJaexgYY",
+              "name": "kangsica*",
+              "sex": "2",
+              "pic": "http://wx.qlogo.cn/mmopen/sstLNDibp2U4BO6zrfIibzh4nc6XgZzmib9AIfyOhJyibZQXXca99TjlRe7Su2Sjyl91uT3HXtRPpZD4iaC0KokdSbg/0"
+            },
+            "content": "来来来",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:48",
+            "support": 0,
+            "unsupport": 0
+          },
+          {
+            "id": 471,
+            "commentUser": {
+              "userId": "oBkjRwvgw9N_uYehfdLZXfq9KfMY",
+              "name": "阮软 ɞ",
+              "sex": "2",
+              "pic": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEITUf7XlNXazqxibODHicsfU5c6bf9icfPH1n9yhDKfn0BJiafibayiazkjSZZSicOcibl6Vy4CxfqDdQeXwA/0"
+            },
+            "content": "www",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:07",
+            "support": 0,
+            "unsupport": 0
+          },
+          {
+            "id": 470,
+            "commentUser": {
+              "userId": "oBkjRwjGAN_3bPtxRlhyT_Y6FL3A",
+              "name": "拾年",
+              "sex": "1",
+              "pic": "http://wx.qlogo.cn/mmopen/HKmvibzwNWwkwibjdBPQkQpPmgSlsiaC7RaSwGXMYBYwhtzQHQS9gGuq6qO3f0UicOLG3kPYaEUaAOh5CDs1V4KTORwULxL4O5RK/0"
+            },
+            "content": "来咯o o o",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:05",
+            "support": 0,
+            "unsupport": 0
+          }
+        ]
+      },
+      {
+        "userId": 32,
+        "custId": "31000002909945",
+        "name": "zhouming",
+        "sex": "1",
+        "area": "北京,东城区",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484047596831_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath2": "",
+        "videoPicPath2": "",
+        "video3": "",
+        "videoPath3": "",
+        "videoPicPath3": "",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484047520588_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 23,
+        "position": 2,
+        "age": 27,
+        "commentCount": 3,
+        "commentList": [
+          {
+            "id": 478,
+            "commentUser": {
+              "userId": "oBkjRwj6e3gdRJ2fa4fJeutArFho",
+              "name": "張婉昏。",
+              "sex": "2",
+              "pic": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM4icJeBFYuciaibrOM5ib5Cx24FESF1WYzhSTArqibO0xgPHKlhgRQwRAUpDhO5n4I3kcQnGicJPk2jN4s7pCWdGjSlWFgDXGmTCTK0A/0"
+            },
+            "content": "是的",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:47",
+            "support": 0,
+            "unsupport": 0
+          },
+          {
+            "id": 472,
+            "commentUser": {
+              "userId": "oBkjRwhrrYDDTYdixaVqSIvvRB9s",
+              "name": "浩子",
+              "sex": "0",
+              "pic": "http://wx.qlogo.cn/mmopen/HKmvibzwNWwlRPKtvCnKqKI4clKOoYD5FKqAHzqsBlyJsPZAPzRHmODoMVYZ6ibwKvP4SXyCOMVWfPQoyw0xm6X40K3wefibh4A/0"
+            },
+            "content": "hfgddg",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:08",
+            "support": 0,
+            "unsupport": 0
+          },
+          {
+            "id": 468,
+            "commentUser": {
+              "userId": "oBkjRwkVjM6IGEc787QJNrzMZYNQ",
+              "name": "MoneyCheung",
+              "sex": "2",
+              "pic": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEKib04s9XYmH0xdLoyeibPxXwMTDicUWfPgD7dckKEXRRVEFdv0SP9uy6HXqGuyH7Xzv6ZIS9UZ9UoTpRPz6ANsNibqe5QsGR0VsqE/0"
+            },
+            "content": "1",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 15:07",
+            "support": 0,
+            "unsupport": 0
+          }
+        ]
+      },
+      {
+        "userId": 35,
+        "custId": "3131000000394864",
+        "name": "sff",
+        "sex": "1",
+        "area": "北京,东城区",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484113358452_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath2": "",
+        "videoPicPath2": "",
+        "video3": "",
+        "videoPath3": "",
+        "videoPicPath3": "",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484113068795_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 14,
+        "position": 3,
+        "age": 26,
+        "commentCount": 1,
+        "commentList": [
+          {
+            "id": 467,
+            "commentUser": {
+              "userId": "oBkjRwvwXG-ecK4HG6G2qLb7ZMtM",
+              "name": "装-庄大侠",
+              "sex": "2",
+              "pic": "http://wx.qlogo.cn/mmopen/HKmvibzwNWwnIXpDSZzsH6icUfCnz1VYYzy1ib7gVg6AyrmpBQbpPaqcyKouXGbxDDJMVUuibMRZkDJQEbEM1CyDG2uUIMKZ2icNm/0"
+            },
+            "content": "666",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 15:06",
+            "support": 0,
+            "unsupport": 0
+          }
+        ]
+      },
+      {
+        "userId": 40,
+        "custId": "32000005934267",
+        "name": "麦麦夏目酱",
+        "sex": "1",
+        "area": "广东省,广州",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484144661434_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "http://mvvideo11.meitudata.com/58764043787c49265.mp4",
+        "videoPath2": "http://mvvideo11.meitudata.com/58764043787c49265.mp4",
+        "videoPicPath2": "http://mvimg11.meitudata.com/58764055aa1805799.jpg!thumb320",
+        "video3": "http://mvvideo11.meitudata.com/58764043787c49265.mp4",
+        "videoPath3": "http://mvvideo11.meitudata.com/58764043787c49265.mp4",
+        "videoPicPath3": "http://mvimg11.meitudata.com/58764055aa1805799.jpg!thumb320",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484144543095_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 8,
+        "position": 4,
+        "age": 36,
+        "commentCount": 3,
+        "commentList": [
+          {
+            "id": 477,
+            "commentUser": {
+              "userId": "oBkjRwvwXG-ecK4HG6G2qLb7ZMtM",
+              "name": "装-庄大侠",
+              "sex": "2",
+              "pic": "http://wx.qlogo.cn/mmopen/HKmvibzwNWwnIXpDSZzsH6icUfCnz1VYYzy1ib7gVg6AyrmpBQbpPaqcyKouXGbxDDJMVUuibMRZkDJQEbEM1CyDG2uUIMKZ2icNm/0"
+            },
+            "content": "啦啦啦啦",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:43",
+            "support": 0,
+            "unsupport": 0
+          },
+          {
+            "id": 476,
+            "commentUser": {
+              "userId": "oBkjRwjGAN_3bPtxRlhyT_Y6FL3A",
+              "name": "拾年",
+              "sex": "1",
+              "pic": "http://wx.qlogo.cn/mmopen/HKmvibzwNWwkwibjdBPQkQpPmgSlsiaC7RaSwGXMYBYwhtzQHQS9gGuq6qO3f0UicOLG3kPYaEUaAOh5CDs1V4KTORwULxL4O5RK/0"
+            },
+            "content": "来咯我",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:36",
+            "support": 1,
+            "unsupport": 0
+          },
+          {
+            "id": 473,
+            "commentUser": {
+              "userId": "oBkjRwvwXG-ecK4HG6G2qLb7ZMtM",
+              "name": "装-庄大侠",
+              "sex": "2",
+              "pic": "http://wx.qlogo.cn/mmopen/HKmvibzwNWwnIXpDSZzsH6icUfCnz1VYYzy1ib7gVg6AyrmpBQbpPaqcyKouXGbxDDJMVUuibMRZkDJQEbEM1CyDG2uUIMKZ2icNm/0"
+            },
+            "content": "666",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:27",
+            "support": 1,
+            "unsupport": 0
+          }
+        ]
+      },
+      {
+        "userId": 37,
+        "custId": "34000005934105",
+        "name": "诶嘿嘿嘿",
+        "sex": "1",
+        "area": "北京,东城区",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484142084923_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "http://gslb.miaopai.com/stream/lqGygaeT7roXRZTC6Esegw__.mp4?sign=a828f5bed508fd85cdd3c5f3b6265ea7&time_stamp=1484143914000",
+        "videoPath2": "http://gslb.miaopai.com/stream/lqGygaeT7roXRZTC6Esegw__.mp4?sign=a828f5bed508fd85cdd3c5f3b6265ea7&time_stamp=1484143914000",
+        "videoPicPath2": "http://qncdn.miaopai.com/stream/lqGygaeT7roXRZTC6Esegw___m.jpg",
+        "video3": "http://gslb.miaopai.com/stream/lqGygaeT7roXRZTC6Esegw__.mp4?sign=f7210b00a466b8f98956b1b2028fa2b0&time_stamp=1484143915000",
+        "videoPath3": "http://gslb.miaopai.com/stream/lqGygaeT7roXRZTC6Esegw__.mp4?sign=f7210b00a466b8f98956b1b2028fa2b0&time_stamp=1484143915000",
+        "videoPicPath3": "http://qncdn.miaopai.com/stream/lqGygaeT7roXRZTC6Esegw___m.jpg",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484142146533_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 7,
+        "position": 5,
+        "age": 36,
+        "commentCount": 0,
+        "commentList": [ ]
+      },
+      {
+        "userId": 38,
+        "custId": "32000005934266",
+        "name": "签到表",
+        "sex": "1",
+        "area": "山西省,太原",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484143855245_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "http://gslb.miaopai.com/stream/yLtS79PagylkuIsmMl7QGA__.mp4?sign=2d4d2367a43f8ee5ca274d3fecb612e3&time_stamp=1484145637000",
+        "videoPath2": "",
+        "videoPicPath2": "",
+        "video3": "http://gslb.miaopai.com/stream/yLtS79PagylkuIsmMl7QGA__.mp4?sign=66a050c246305f302cd879d5725d845c&time_stamp=1484145639000",
+        "videoPath3": "",
+        "videoPicPath3": "",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484143833781_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 4,
+        "position": 6,
+        "age": 36,
+        "commentCount": 1,
+        "commentList": [
+          {
+            "id": 475,
+            "commentUser": {
+              "userId": "oBkjRwkVjM6IGEc787QJNrzMZYNQ",
+              "name": "MoneyCheung",
+              "sex": "2",
+              "pic": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEKib04s9XYmH0xdLoyeibPxXwMTDicUWfPgD7dckKEXRRVEFdv0SP9uy6HXqGuyH7Xzv6ZIS9UZ9UoTpRPz6ANsNibqe5QsGR0VsqE/0"
+            },
+            "content": "1",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:35",
+            "support": 0,
+            "unsupport": 0
+          }
+        ]
+      },
+      {
+        "userId": 43,
+        "custId": "32000005934268",
+        "name": "Ry",
+        "sex": "1",
+        "area": "北京,西城区",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484145998857_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "http://gslb.miaopai.com/stream/9KFO7ZkXswQN5nU3mpVD4w__.mp4?sign=fe7d1afa1aae7601b3b92d87d31dca4f&time_stamp=1484148103000",
+        "videoPath2": "",
+        "videoPicPath2": "",
+        "video3": "http://gslb.miaopai.com/stream/GrFjTfHAj50hjOXY6AzdXg__.mp4?sign=8e37eec6de817cf597f1c3a3d51f4579&time_stamp=1484148104000",
+        "videoPath3": "",
+        "videoPicPath3": "",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484145798889_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 4,
+        "position": 7,
+        "age": 36,
+        "commentCount": 1,
+        "commentList": [
+          {
+            "id": 480,
+            "commentUser": {
+              "userId": "oBkjRwjGAN_3bPtxRlhyT_Y6FL3A",
+              "name": "拾年",
+              "sex": "1",
+              "pic": "http://wx.qlogo.cn/mmopen/HKmvibzwNWwkwibjdBPQkQpPmgSlsiaC7RaSwGXMYBYwhtzQHQS9gGuq6qO3f0UicOLG3kPYaEUaAOh5CDs1V4KTORwULxL4O5RK/0"
+            },
+            "content": "狗狗龙",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 23:14",
+            "support": 1,
+            "unsupport": 0
+          }
+        ]
+      },
+      {
+        "userId": 36,
+        "custId": "34000002909978",
+        "name": "fssfsf",
+        "sex": "1",
+        "area": "北京,东城区",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484118914258_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath2": "",
+        "videoPicPath2": "",
+        "video3": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath3": "",
+        "videoPicPath3": "",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484118899646_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 3,
+        "position": 8,
+        "age": 36,
+        "commentCount": 0,
+        "commentList": [ ]
+      },
+      {
+        "userId": 41,
+        "custId": "32000005934264",
+        "name": "浩子",
+        "sex": "1",
+        "area": "海外,海外",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484144951239_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "https://v.xiaokaxiu.com/v/yLtS79PagylkulsmMI7QGA_.html",
+        "videoPath2": "",
+        "videoPicPath2": "",
+        "video3": "",
+        "videoPath3": "",
+        "videoPicPath3": "",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484144920391_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 3,
+        "position": 9,
+        "age": 36,
+        "commentCount": 1,
+        "commentList": [
+          {
+            "id": 474,
+            "commentUser": {
+              "userId": "oBkjRwhrrYDDTYdixaVqSIvvRB9s",
+              "name": "浩子",
+              "sex": "0",
+              "pic": "http://wx.qlogo.cn/mmopen/HKmvibzwNWwlRPKtvCnKqKI4clKOoYD5FKqAHzqsBlyJsPZAPzRHmODoMVYZ6ibwKvP4SXyCOMVWfPQoyw0xm6X40K3wefibh4A/0"
+            },
+            "content": "哈哈哈",
+            "type": "2",
+            "flag": "1",
+            "date": "01月11日 22:32",
+            "support": 0,
+            "unsupport": 0
+          }
+        ]
+      },
+      {
+        "userId": 39,
+        "custId": "32000005934265",
+        "name": "啊哈",
+        "sex": "1",
+        "area": "湖南省,长沙",
+        "school": "深圳大学",
+        "picture": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484144364146_34.jpg",
+        "video": "http://gslb.miaopai.com/stream/XYwmUsswYnKQLLtuGUMkgA__.mp4",
+        "videoPath": "",
+        "videoPicPath": "",
+        "video2": "http://mvvideo1.meitudata.com/585e1506c307c7743.mp4",
+        "videoPath2": "http://mvvideo1.meitudata.com/585e1506c307c7743.mp4",
+        "videoPicPath2": "http://mvimg10.meitudata.com/585d2757e09381669.jpg!thumb320",
+        "video3": "http://mvvideo1.meitudata.com/585e1506c307c7743.mp4",
+        "videoPath3": "http://mvvideo1.meitudata.com/585e1506c307c7743.mp4",
+        "videoPicPath3": "http://mvimg10.meitudata.com/585d2757e09381669.jpg!thumb320",
+        "logo": "http://192.168.68.2:9002/xmResources/productImages/activity/audition5-1/1484144334435_34.jpg",
+        "auditionAtionRoleList": [
+          {
+            "id": 116,
+            "roleName": "女性重要角色一：著名模特",
+            "roleDesc": "女性重要角色一：著名模特",
+            "orderIndex": 1
+          },
+          {
+            "id": 117,
+            "roleName": "女性重要角色二：职场美女",
+            "roleDesc": "女性重要角色二：职场美女",
+            "orderIndex": 2
+          }
+        ],
+        "voteCount": 1,
+        "position": 10,
+        "age": 36,
+        "commentCount": 0,
+        "commentList": [ ]
+      }
+    ]
+  }
+
+}
