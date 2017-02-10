@@ -3,7 +3,7 @@
     margin: 0;
 }
 html{
-    font-size: 62.5%;
+    /*font-size: 62.5%;*/
 }
 html,body{
     height: 100%;
@@ -23,12 +23,12 @@ html,body{
 }
 .login{
     text-align: center;
-    padding-top: 16rem;
-    width: 20rem;
+    padding-top: 4.10rem;
+    width: 5.5rem;
     margin: 0 auto;
 }
 .form-control{
-    margin-top: 1rem;
+    margin-top: 0.28rem;
     position: relative;
 }
 .login .form-control label{
@@ -36,25 +36,27 @@ html,body{
     color: #eee;
 }
 .login .form-control input{
-    height: 3rem;
+    height: 0.8rem;
     border: none;
-    width: 14em;
+    width: 4.7rem;
     border-radius: 1.8rem;
-    padding-left: 3rem;
+    padding-left: 0.8rem;
+    font-size: 0.36rem;
 }
 .login .form-control i{
     position: absolute;
-    top: 0.9rem;
-    left: 1.8rem;
+    font-size: 0.42rem;
+    top: 16px;
+    left: 28px;
 }
 .login .form-control button{
     border: none;
-    height: 3rem;
-    width: 10rem;
+    height: 0.8rem;
+    width: 3.4rem;
     border-radius: 18rem;
     background: #53bf57;
     color: #eee;
-    font-size: 1.6rem;
+    font-size: 0.42rem;
     font-weight: bold;
 }
 
@@ -70,29 +72,31 @@ html,body{
 }
 .show-container{
     background: #fff;
-    width: 20rem;
+    width: 5.5rem;
     margin: 0 auto;
-    margin-top: 18rem;
+    margin-top: 4.1rem;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 30px #ccc;
 }
 .show-container .show-text{
-    padding: 2rem 1rem;
-    font-size: 1.6rem;
+    padding: 0.6rem 0.5rem;
+    font-size: 0.42rem;
 }
 .show-container .show-button{
-    padding-bottom: 2rem;
+    padding-bottom: 0.7rem;
 }
 .show-container .show-button button{
     border: none;
-    width: 6rem;
-    height: 3rem;
-    font-size: 1.6rem;
+    width: 1.9rem;
+    height: 0.8rem;
+    font-size: 0.42rem;
     border-radius: 4px;
     background: #fff;
     color: #333;
 }
 .show-container .show-button button.cancel{
     border: 1px solid #ccc;
-    margin-right: 1.4rem;
+    margin-right: 0.48rem;
 }
 .show-container .show-button button.sure{
     background: #53bf57;
