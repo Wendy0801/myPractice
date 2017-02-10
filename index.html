@@ -4,21 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>欢迎小伙伴</title>
-    <script src="js/common/require.js" type="text/javascript"></script>
-    <script src="js/product/index.js" type="text/javascript"></script>
+    <link href="style/css.css" rel="stylesheet" type="text/css">
+    <link href="fonts/iconfont.css" rel="stylesheet" type="text/css">
 </head>
 
 <!--<script src="js/product/config.js"></script>-->
 <body>
     <header>
-
     </header>
-    <section>
-
+    <section class="l-container">
+        <div class="login">
+            <div class="form-control">
+                <i class="iconfont icon-iconmember"></i>
+                <input type="text">
+            </div>
+            <div class="form-control">
+                <i class="iconfont icon-iconpasswords"></i>
+                <input type="text">
+            </div>
+            <div class="form-control">
+                <button type="button" id="login">登录</button>
+            </div>
+        </div>
     </section>
     <footer>
 
     </footer>
+<div class="show-confirm">
+    <div class="show-container">
+        <div class="show-text">
+            <span>你确定么？</span>
+        </div>
+        <div class="show-button">
+            <button type="button" class="cancel" id="cancel">取消</button>
+            <button type="button" class="sure" id="sure">确定</button>
+        </div>
+    </div>
+</div>
 </body>
 <!--<script>-->
     <!--var name = prompt('请输入你的姓名:'),-->
@@ -26,4 +48,6 @@
         <!--pNode.innerHTML = 'welcome,'+name+',项目建设中，谢谢关注！';-->
     <!--document.body.appendChild(pNode);-->
 <!--</script>-->
+<script src="js/product/ss.js">
+</script>
 </html>
