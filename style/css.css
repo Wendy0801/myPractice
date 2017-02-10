@@ -44,8 +44,8 @@ html,body{
 }
 .login .form-control i{
     position: absolute;
-    top: 12px;
-    left: 20px;
+    top: 0.9rem;
+    left: 1.8rem;
 }
 .login .form-control button{
     border: none;
@@ -92,7 +92,7 @@ html,body{
 }
 .show-container .show-button button.cancel{
     border: 1px solid #ccc;
-    margin-right: 14px;
+    margin-right: 1.4rem;
 }
 .show-container .show-button button.sure{
     background: #53bf57;
