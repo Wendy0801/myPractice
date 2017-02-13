@@ -46,8 +46,8 @@ html,body{
 .login .form-control i{
     position: absolute;
     font-size: 0.42rem;
-    top: 16px;
-    left: 28px;
+    top: 0.18rem;
+    left: 0.26rem;
 }
 .login .form-control button{
     border: none;
