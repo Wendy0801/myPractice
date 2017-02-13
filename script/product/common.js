@@ -3,7 +3,7 @@
  */
 var common = {
     init: function () {
-        this.showConfirm();
+
     },
     showConfirm:function (text) {
         var $div = '<div class="show-confirm"> ' +

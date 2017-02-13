@@ -3,7 +3,7 @@
  */
 var home = {
     init:function () {
-        common.showConfirm(localStorage.name);
+        common.showConfirm('欢迎您，'+localStorage.name);
     }
 }
 $(function () {
