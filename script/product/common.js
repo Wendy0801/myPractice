@@ -10,7 +10,7 @@ var common = {
             var $div = '<div class="show-confirm"> ' +
                 '<div class="show-container"> ' +
                 '<div class="show-text"> ' +
-                '<span>'+ text +'</span> ' +
+                '<span id="showText"></span> ' +
                 '</div> ' +
                 '<div class="show-button"> ' +
                 '<button type="button" class="cancel" id="cancel">取消</button> ' +
@@ -21,6 +21,7 @@ var common = {
             $('body').append($div);
 
         }
+        $('#showText').text(text)
         $('.show-confirm').show();
         $('#cancel').on('tap',function () {
             $('.show-confirm').hide()
