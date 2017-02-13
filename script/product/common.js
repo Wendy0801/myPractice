@@ -6,7 +6,7 @@ var common = {
 
     },
     showConfirm:function (text) {
-        if ($('.show-confirm').length >0) {
+        if ($('.show-confirm').length <=0) {
             var $div = '<div class="show-confirm"> ' +
                 '<div class="show-container"> ' +
                 '<div class="show-text"> ' +
