@@ -37,6 +37,7 @@ html,body{
 }
 .login .form-control input{
     height: 0.8rem;
+    line-height: 0.8rem;
     border: none;
     width: 4.7rem;
     border-radius: 1.8rem;
