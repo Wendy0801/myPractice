@@ -19,15 +19,15 @@ var common = {
                 '</div> ' +
                 '</div>'
             $('body').append($div);
-            $('.show-confirm').show();
-            $('#cancel').on('tap',function () {
-                $('.show-confirm').hide()
-            });
-            $('#sure').on('tap',function () {
-                $('.show-confirm').hide()
-            })
-        }
 
+        }
+        $('.show-confirm').show();
+        $('#cancel').on('tap',function () {
+            $('.show-confirm').hide()
+        });
+        $('#sure').on('tap',function () {
+            $('.show-confirm').hide()
+        })
 
     }
 }
