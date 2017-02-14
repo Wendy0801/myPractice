@@ -21,7 +21,7 @@ var common = {
             $('body').append($div);
 
         }
-        $('#showText').text(text)
+        $('#showText').html(text)
         $('.show-confirm').show();
         $('#cancel').on('tap',function () {
             $('.show-confirm').hide()

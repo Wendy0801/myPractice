@@ -15,8 +15,33 @@
     </script>
 </head>
 <body>
-<script src="../script/common/zepto.min.js"></script>
+    <header>
+        <div class="h-con">
+            <i class="iconfont icon-shouye"></i>
+            <i class="iconfont icon-iconsignout"></i>
+        </div>
+    </header>
+    <section>
+
+    </section>
+    <h1>File API Demo</h1>
+    <p>
+        <!-- 用于文件上传的表单元素 -->
+        <form name="demoForm" id="demoForm" method="post" enctype="multipart/form-data"
+              action="javascript: uploadAndSubmit();">
+    <p>Upload File: <input type="file" name="file" /></p>
+    <p><input type="submit" value="Submit" /></p>
+    </form>
+    <div>Progessing (in Bytes): <span id="bytesRead">
+ </span> / <span id="bytesTotal"></span>
+    </div>
+    </p>
+    <script src="../script/common/zepto.min.js"></script>
 <script src="../script/product/common.js?m3"></script>
 <script src="../script/product/home.js?m3"></script>
+<script src="../script/product/Enums.js"></script>
+<script type="text/javascript">
+    alert(Enum.firstList);
+</script>
 </body>
 </html>

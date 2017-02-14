@@ -10,7 +10,7 @@ html,body{
     font-family: '微软雅黑';
     color: #333;
 }
-/*登录*/
+/*----------------------------------------登录页--------------------------------------------*/
 .l-container{
     background: url("../images/back.jpg");
     height: 100%;
@@ -60,8 +60,26 @@ html,body{
     font-size: 0.42rem;
     font-weight: bold;
 }
-
-/*公共-弹出框*/
+/*----------------------------------------------首页----------------------------------------*/
+header{
+    background: #53bf57;
+    height: 0.8rem;
+    line-height: 0.8rem;
+    color: #eeeeee;
+}
+.h-con{
+    padding: 0 0.24rem;
+}
+.h-con i{
+    font-size: 0.42rem;
+}
+.h-con i.icon-shouye{
+   font-weight: bold;
+}
+.h-con i.icon-iconsignout{
+    float: right;
+}
+/*------------------------------------------公共-弹出框------------------------------------*/
 .show-confirm{
     height: 100%;
     width: 100%;
